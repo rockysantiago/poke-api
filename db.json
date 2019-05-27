@@ -1,0 +1,9 @@
+{
+  "pokedex": [
+    { "id": 1, "pokemon": "Bulbasaur", "type": ["Grass", "Poison"] },
+    { "id": 2, "pokemon": "Ivysaur", "type": ["Grass", "Poison"] },
+    { "id": 3, "pokemon": "Venusaur", "type": ["Grass", "Poison"] },
+    { "id": 4, "pokemon": "Charmander", "type": "Fire" },
+    { "id": 5, "pokemon": "Charmeleon", "type": "Fire" }
+  ]
+}
